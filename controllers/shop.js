@@ -1,4 +1,4 @@
-const stripe = require('stripe')('sk_test_2dTlYtRtbiArnZDknop26CiE00z2FH7r1s'); //private stripe key
+const stripe = require('stripe')('ADD YOUR STRIPE KEY'); //private stripe key
 
 const fs=require('fs');
 const path=require('path');
