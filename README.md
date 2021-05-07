@@ -7,3 +7,8 @@
 5.add your stripe id on line1 in controllers/shop.js.
 6.then run npm install, install npm modules.
 7.then run npm start.
+
+o Built a web application for buying and selling the products.
+o Implemented functionalities like authentication, add product, add in cart, payment 
+option, etc.
+o Used EJS, ExpressJS, Mongoose , NodeJS, CSS
